@@ -1,5 +1,4 @@
 const path=require('path')
-import "tailwindcss/tailwind.css"
 
 const rootDir=require('./utils/pathutils')
 const express=require('express')
